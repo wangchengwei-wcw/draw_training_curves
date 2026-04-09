@@ -1,3 +1,6 @@
+# 展示效果
+![结果图](outputs/Total_reward.png)
+
 # draw_training_curves
 
 一个用于读取 TensorBoard 日志文件并绘制训练曲线对比图的 Python 工具。
