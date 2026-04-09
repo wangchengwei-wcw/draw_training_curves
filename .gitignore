@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# tensorboard / logs
+events.out.tfevents.*
+runs/
+logs/
+
+# checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# images / outputs
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# system
+.DS_Store
